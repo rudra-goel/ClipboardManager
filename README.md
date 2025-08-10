@@ -53,5 +53,5 @@ A secure macOS menu bar clipboard manager that stores and organizes your clipboa
 4. Launch the app and grant necessary permissions when prompted
 
 ---
-
+![Example2](Demo2.gif)
 *Your clipboard data is encrypted and stored locally on your device for maximum privacy and security.*

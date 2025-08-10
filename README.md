@@ -2,7 +2,8 @@
 
 A secure macOS menu bar clipboard manager that stores and organizes your clipboard history. Secured with macOS Keychain and biometric authentication.
 
-![Authentication](Auth.png)
+<img src="Auth.png" alt="drawing" width="200"/>
+
 
 ## Features
 
@@ -26,8 +27,7 @@ A secure macOS menu bar clipboard manager that stores and organizes your clipboa
 - **Links**: Store URLs with custom aliases for easy access
 
 ## How to Use
-
-![Example](Example.png)
+<img src="Example.png" alt="Example" width="200"/>
 
 1. Launch the app and authenticate with Touch ID/Face ID or your system password
 2. Click the clipboard icon in the menu bar to open the manager
@@ -47,7 +47,7 @@ A secure macOS menu bar clipboard manager that stores and organizes your clipboa
 
 ## Installation
 
-1. Download the latest release ZIP file from the [Releases](../../releases) page
+1. Download the ZIP file from the main branch
 2. Unzip the downloaded file
 3. Move the ClipboardManager app to your Applications folder
 4. Launch the app and grant necessary permissions when prompted
